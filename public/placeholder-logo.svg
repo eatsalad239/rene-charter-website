@@ -1,0 +1,20 @@
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="200" height="60" rx="8" fill="#0096e6"/>
+  
+  <!-- Waves -->
+  <path d="M0 35 Q 25 28, 50 35 T 100 35 T 150 35 T 200 35 L200 60 L0 60 Z" fill="#005480" opacity="0.6"/>
+  <path d="M0 42 Q 30 36, 60 42 T 120 42 T 180 42 T 200 42 L200 60 L0 60 Z" fill="#00334d" opacity="0.4"/>
+  
+  <!-- Text - Rene's -->
+  <text x="100" y="28" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="white" text-anchor="middle">Rene's</text>
+  
+  <!-- Text - Adventures -->
+  <text x="100" y="48" font-family="Arial, sans-serif" font-size="14" font-weight="600" fill="#ffe0b3" text-anchor="middle">ADVENTURES</text>
+  
+  <!-- Anchor Icon (decorative) -->
+  <g transform="translate(15, 18)">
+    <circle cx="12" cy="12" r="13" fill="#ffa11a" opacity="0.2"/>
+    <path d="M12 4 L12 16 M8 12 L16 12 M8 16 Q12 20, 16 16" stroke="white" stroke-width="2" stroke-linecap="round" fill="none"/>
+  </g>
+</svg>
